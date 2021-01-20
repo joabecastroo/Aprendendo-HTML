@@ -1,0 +1,20 @@
+body{
+
+    width: 60%;
+    margin: auto;
+    background-color: #293241;
+    
+}
+
+.campo {
+
+    border-radius: 0.2px;
+    border-color: #ffffff;
+    border-style: solid;
+    background-color: #98c1d9;
+}
+
+h2{
+
+    color: white;
+}
